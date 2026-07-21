@@ -63,12 +63,10 @@ The  challenges I encountered were just just but this includes;
 These challenges were solved by carefully structuring the code into reusable functions, using try/catch blocks for error handling, and testing the application with different city names.
 
 ## Screenshots (optional)
-
-Add screenshots of the application here after running it.
-
 Example:
 
-![Weather Dashboard Home](images/weather-dashboard.png)
+![Weather Dashboard Home](<img width="1396" height="868" alt="AdobeExpressPhotos_70afd0c9ed5b448b8aed1b9d07969229_CopyEdited" src="https://github.com/user-attachments/assets/802385c2-c64a-4d41-8aaf-55e72af0a175" />
+)
 
 ## Live Demo (if deployed)
 
